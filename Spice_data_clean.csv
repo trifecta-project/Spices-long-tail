@@ -1,0 +1,178 @@
+Voyage,Book Year,Weight,Cargo,Deaprture,D_Country,Arrival,A_Country
+13945,1700,55.00,peper,Batavia,Indonesia,Timor,Indonesia
+14198,1700,7.00,peper,Amboina,Indonesia,Banda-Neira,Indonesia
+14666,1701,25.00,peper,Batavia,Indonesia,Cheribon,Indonesia
+15097,1701,1.00,peper,Amboina,Indonesia,Banda-Neira,Indonesia
+15835,1706,6.00,peper,Batavia,Indonesia,Cheribon,Indonesia
+16665,1706,10.00,peper,Batavia,Indonesia,Banda-Neira,Indonesia
+16679,1708,50.00,peper,Batavia,Indonesia,Ternate,Indonesia
+16790,1708,12.00,peper,Batavia,Indonesia,Mokka,Yemen
+16412,1710,100.00,peper,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+14345,1714,50.00,peper,Bengalen,India,Batavia,Indonesia
+15311,1714,50.00,peper,Batavia,Indonesia,Ceylon,Sri Lanka
+15502,1714,5.00,peper,Batavia,Indonesia,Gamron,Indonesia
+15697,1714,10.00,peper,Batavia,Indonesia,Banda-Neira,Indonesia
+15701,1714,100.00,peper,Batavia,Indonesia,Timor,Indonesia
+15836,1714,100.00,peper,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+16304,1717,12.00,peper,Cheribon,Indonesia,Batavia,Indonesia
+16658,1717,30.00,peper,Batavia,Indonesia,Surat,India
+16662,1719,30.00,peper,Batavia,Indonesia,Perzië,Iran
+16663,1719,12.00,peper,Batavia,Indonesia,Mokka,Yemen
+18108,1721,10.00,peper,Batavia,Indonesia,Ternate,Indonesia
+18117,1721,12.00,peper,Batavia,Indonesia,Semarang,Indonesia
+13962,1723,30.00,peper,Batavia,Indonesia,Bengalen,India
+13978,1723,12.00,peper,Batavia,Indonesia,Mokka,Yemen
+14147,1723,10.00,peper,Batavia,Indonesia,Banda-Neira,Indonesia
+14331,1723,10.00,peper,Batavia,Indonesia,Makassar,Indonesia
+18112,1726,10.00,peper,Batavia,Indonesia,Amboina,Indonesia
+18539,1728,100.00,peper,Batavia,Indonesia,Timor,Indonesia
+18542,1728,12.00,peper,Batavia,Indonesia,Mokka,Yemen
+18614,1728,3.00,peper,Amboina,Indonesia,Ternate,Indonesia
+18640,1728,1.00,peper,Ternate,Indonesia,Amboina,Indonesia
+13207,1731,80.00,peper,Kaap de Goede Hoop,South Africa,Batavia,Indonesia
+12913,1737,10.00,peper,Kaap de Goede Hoop,South Africa,Amsterdam,Netherlands
+9228,1753,100.00,peper,Batavia,Indonesia,Rotterdam,Netherlands
+7298,1758,25.00,peper,Timor,Indonesia,Batavia,Indonesia
+5800,1761,100.00,peper,Batavia,Indonesia,Enkhuizen,Netherlands
+4584,1765,85.00,peper,Batavia,Indonesia,Delft,Netherlands
+2720,1775,50.00,peper,Kaap de Goede Hoop,South Africa,Ceylon,Sri Lanka
+2930,1776,100.00,peper,Batavia,Indonesia,Malakka,Indonesia
+14082,1700,80.00,kaneel,Surat,India,Tuticorin,India
+14198,1700,1.00,kaneel,Amboina,Indonesia,Banda-Neira,Indonesia
+9413,1701,80.00,kaneel,Batavia,Indonesia,Banda-Neira,Indonesia
+9514,1701,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+14322,1702,100.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+14971,1702,80.00,kaneel,Tuticorin,India,Malabar,India
+14174,1703,25.00,kaneel,Batavia,Indonesia,Padang,Indonesia
+14355,1703,50.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+14641,1703,5.00,kaneel,Batavia,Indonesia,Timor,Indonesia
+14644,1703,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+15559,1706,80.00,kaneel,Batavia,Indonesia,Bantam,Indonesia
+15579,1706,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+15600,1706,80.00,kaneel,Batavia,Indonesia,Banda-Neira,Indonesia
+16660,1708,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+16680,1708,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+16701,1708,80.00,kaneel,Batavia,Indonesia,Siam,Thailand
+16784,1708,25.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+15239,1711,80.00,kaneel,Batavia,Indonesia,Siam,Thailand
+15269,1711,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+16049,1712,2.00,kaneel,Batavia,Indonesia,Perzië,Iran
+16213,1712,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+15502,1720,80.00,kaneel,Batavia,Indonesia,Gamron,Indonesia
+15518,1720,8.00,kaneel,Batavia,Indonesia,Bantam,Indonesia
+15694,1720,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+15699,1720,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+15823,1720,25.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+17007,1721,80.00,kaneel,Colombo,Sri Lanka,Malabar,India
+18011,1722,10.00,kaneel,Batavia,Indonesia,Mokka,Yemen
+18011,1722,6.00,kaneel,Batavia,Indonesia,Mokka,Yemen
+18100,1722,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+18106,1722,80.00,kaneel,Batavia,Indonesia,Banda-Neira,Indonesia
+18111,1722,10.00,kaneel,Batavia,Indonesia,Timor,Indonesia
+14140,1725,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+14331,1725,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+14332,1725,15.00,kaneel,Batavia,Indonesia,Timor,Indonesia
+17751,1725,80.00,kaneel,Batavia,Indonesia,Banda-Neira,Indonesia
+17769,1725,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+17790,1725,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+18089,1726,80.00,kaneel,Batavia,Indonesia,Bantam,Indonesia
+18112,1726,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+18369,1728,80.00,kaneel,Surat,India,Batavia,Indonesia
+18539,1728,10.00,kaneel,Batavia,Indonesia,Timor,Indonesia
+17226,1730,80.00,kaneel,Batavia,Indonesia,Bantam,Indonesia
+17335,1730,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+17336,1730,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+17405,1730,80.00,kaneel,Colombo,Sri Lanka,Malabar,India
+12764,1731,80.00,kaneel,Batavia,Indonesia,Banda-Neira,Indonesia
+12514,1738,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+11043,1741,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+8227,1750,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+8238,1750,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+8241,1750,80.00,kaneel,Batavia,Indonesia,Banda-Neira,Indonesia
+8681,1750,100.00,kaneel,Nagasaki,Japan,Batavia,Indonesia
+10757,1752,100.00,kaneel,Batavia,Indonesia,Amsterdam,Netherlands
+10814,1752,63.00,kaneel,Batavia,Indonesia,Enkhuizen,Netherlands
+10973,1752,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+10974,1752,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+10980,1752,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+10987,1752,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+10993,1752,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+8982,1753,50.50,kaneel,Padang,Indonesia,Batavia,Indonesia
+8984,1753,80.00,kaneel,Padang,Indonesia,Batavia,Indonesia
+9466,1753,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+9476,1753,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+9563,1753,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+9564,1753,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+9622,1753,80.00,kaneel,Jaffna,Sri Lanka,Coromandel,New Zealand
+9882,1753,1.00,kaneel,Cochin,India,Malakka,Malaysia
+9915,1754,80.00,kaneel,Batavia,Indonesia,Banda-Neira,Indonesia
+9919,1754,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+9978,1754,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+7071,1756,80.00,kaneel,Muscat,Oman,Batavia,Indonesia
+7108,1756,75.00,kaneel,Batavia,Indonesia,Zeeland,Netherlands
+7836,1756,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+8071,1756,80.00,kaneel,Batavia,Indonesia,Java's Noordoostkust,Indonesia
+7159,1758,12.75,kaneel,Ceylon,Sri Lanka,Batavia,Indonesia
+7160,1758,4.00,kaneel,Colombo,Sri Lanka,Batavia,Indonesia
+8253,1758,80.00,kaneel,Batavia,Indonesia,Banda-Neira,Indonesia
+8286,1758,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+8291,1758,80.00,kaneel,Batavia,Indonesia,Timor,Indonesia
+8297,1758,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+6611,1759,80.00,kaneel,Batavia,Indonesia,Bengalen,India
+6612,1759,80.00,kaneel,Batavia,Indonesia,Bengalen,India
+6670,1759,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+6677,1759,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+6705,1759,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+6716,1759,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+6730,1759,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+6733,1759,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+6765,1759,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+6863,1760,80.00,kaneel,Batavia,Indonesia,Bengalen,India
+6920,1760,80.00,kaneel,Batavia,Indonesia,Padang,Indonesia
+7157,1760,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+6362,1761,80.00,kaneel,Colombo,Sri Lanka,Coromandel,New Zealand
+18794,1762,10.00,kaneel,Amboina,Indonesia,Banda,Indonesia
+4663,1765,80.00,kaneel,Batavia,Indonesia,Surat,India
+4714,1765,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+4735,1765,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+4737,1765,80.00,kaneel,Batavia,Indonesia,Makassar,Indonesia
+4740,1765,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+4961,1765,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+3897,1766,80.00,kaneel,Batavia,Indonesia,Malabar,India
+3993,1766,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+4014,1766,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+3690,1768,80.00,kaneel,Batavia,Indonesia,Surat,India
+3693,1768,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+3925,1768,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+3716,1771,80.00,kaneel,Batavia,Indonesia,Surat,India
+3718,1771,80.00,kaneel,Batavia,Indonesia,Surat,India
+3730,1771,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+4074,1771,80.00,kaneel,Batavia,Indonesia,Amboina,Indonesia
+5885,1772,80.00,kaneel,Batavia,Indonesia,Surat,India
+5887,1772,80.00,kaneel,Batavia,Indonesia,Surat,India
+5931,1772,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+5986,1772,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+9147,1773,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+3233,1774,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+3266,1774,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+3297,1774,80.00,kaneel,Batavia,Indonesia,Ternate,Indonesia
+2660,1775,80.00,kaneel,Batavia,Indonesia,Kaap de Goede Hoop,South Africa
+2923,1776,80.00,kaneel,Batavia,Indonesia,Surat,India
+2930,1776,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+2017,1777,80.00,kaneel,Batavia,Indonesia,Surat,India
+2055,1777,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+4950,1778,80.00,kaneel,Batavia,Indonesia,Surat,India
+4957,1778,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+5019,1778,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+437,1779,80.00,kaneel,Batavia,Indonesia,Surat,India
+442,1779,80.00,kaneel,Batavia,Indonesia,Surat,India
+467,1779,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+556,1779,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+1595,1780,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+950,1782,80.00,kaneel,Batavia,Indonesia,Semarang,Indonesia
+1009,1784,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+18785,1784,1.88,kaneel,Ceylon,Sri Lanka,Coromandel,New Zealand
+559,1786,80.00,kaneel,Batavia,Indonesia,Surat,India
+573,1786,80.00,kaneel,Batavia,Indonesia,Surat,India
+206,1789,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
+208,1789,80.00,kaneel,Batavia,Indonesia,Malakka,Malaysia
